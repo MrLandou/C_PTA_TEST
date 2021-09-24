@@ -16,7 +16,7 @@ double funcos(double e, double x) {
 	int b = 1;
 	int k = 1;
 	int i = 0;
-	//µÚÒ»ÏîÖ±½Ó·ÅÈësumÖÐ,cÎªÏîÊýÖµ
+	//ç¬¬ä¸€é¡¹ç›´æŽ¥æ”¾å…¥sumä¸­,cä¸ºé¡¹æ•°å€¼
 	double sum=1;
 	double c = a / b;
 	while (c>e) {
