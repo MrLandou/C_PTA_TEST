@@ -26,6 +26,6 @@ double funcos(double e, double x) {
 		sum = sum + c * pow(-1, k);
 		i += 2;
 		k++;
-	}
+	} 
 	return sum;
 }
