@@ -28,4 +28,4 @@ int SumA(int a, int n) {
     }
     return sum;
 
-}
+} 
